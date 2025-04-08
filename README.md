@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+ Meu nome é Yvens e atualmente estou aprendendo programação pelo curso da InCODE Tech School.
 <!--
 **YvensM09/YvensM09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
